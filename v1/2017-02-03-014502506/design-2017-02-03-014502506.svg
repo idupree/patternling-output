@@ -1,0 +1,106 @@
+<svg viewBox="15 15 455 455" xmlns="http://www.w3.org/2000/svg" version="1.1"><path d="
+M 20 20 C
+20 82.93250352560273
+46.067496474397274 109
+109 109
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 20 20 C
+20 109
+20 109
+20 198
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 109 109 C
+46.067496474397274 109
+20 135.06749647439727
+20 198
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 109 109 C
+171.93250352560273 109
+198 135.06749647439727
+198 198
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 20 198 C
+20 260.9325035256027
+46.067496474397274 287
+109 287
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 109 287 C
+198 287
+198 287
+287 287
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 109 465 C
+171.93250352560273 465
+198 438.9325035256027
+198 376
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 287 109 C
+224.06749647439727 109
+198 135.06749647439727
+198 198
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 287 109 C
+349.9325035256027 109
+376 82.93250352560273
+376 20
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 287 109 C
+349.9325035256027 109
+376 135.06749647439727
+376 198
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 198 198 C
+198 260.9325035256027
+224.06749647439727 287
+287 287
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 287 287 C
+224.06749647439727 287
+198 313.0674964743973
+198 376
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 287 287 C
+376 287
+376 287
+465 287
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 287 287 C
+349.9325035256027 287
+376 313.0674964743973
+376 376
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 198 376 C
+198 438.9325035256027
+224.06749647439727 465
+287 465
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 287 465 C
+349.9325035256027 465
+376 438.9325035256027
+376 376
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 287 465 C
+376 465
+376 465
+465 465
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 376 20 C
+376 109
+376 109
+376 198
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 376 198 C
+376 287
+376 287
+376 376
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 465 287 C
+402.0674964743973 287
+376 313.0674964743973
+376 376
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 376 376 C
+376 438.9325035256027
+402.0674964743973 465
+465 465
+" stroke="rgb(25,0,102)" stroke-width="5" fill-opacity="0.0"></path><line x1="20" y1="23" x2="20" y2="17" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="112" y1="109" x2="106" y2="109" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="20" y1="201" x2="20" y2="195" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="112" y1="287" x2="106" y2="287" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="20" y1="379" x2="20" y2="373" stroke="#040" stroke-width="5" stroke-opacity="0.0"></line><line x1="112" y1="465" x2="106" y2="465" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="198" y1="23" x2="198" y2="17" stroke="#040" stroke-width="5" stroke-opacity="0.0"></line><line x1="290" y1="109" x2="284" y2="109" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="198" y1="201" x2="198" y2="195" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="290" y1="287" x2="284" y2="287" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="198" y1="379" x2="198" y2="373" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="290" y1="465" x2="284" y2="465" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="376" y1="23" x2="376" y2="17" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="468" y1="109" x2="462" y2="109" stroke="#040" stroke-width="5" stroke-opacity="0.0"></line><line x1="376" y1="201" x2="376" y2="195" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="468" y1="287" x2="462" y2="287" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="376" y1="379" x2="376" y2="373" stroke="rgb(0,0,0)" stroke-width="2"></line><line x1="468" y1="465" x2="462" y2="465" stroke="rgb(0,0,0)" stroke-width="2"></line></svg>
