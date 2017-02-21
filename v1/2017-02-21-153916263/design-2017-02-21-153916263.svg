@@ -1,0 +1,606 @@
+<svg viewBox="15 15 496 496" xmlns="http://www.w3.org/2000/svg" version="1.1"><path d="
+M 20 20 C
+20 58.18376618407357
+35.81623381592643 74
+74 74
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 20 20 C
+20 74
+20 74
+20 128
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 74 C
+35.81623381592643 74
+20 89.81623381592644
+20 128
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 74 C
+112.18376618407356 74
+128 58.18376618407357
+128 20
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 74 C
+128 74
+128 74
+182 74
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 74 C
+112.18376618407356 74
+128 89.81623381592644
+128 128
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 20 128 C
+20 166.18376618407356
+35.81623381592643 182
+74 182
+" stroke="rgb(25,179,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 20 128 C
+20 182
+20 182
+20 236
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 182 C
+35.81623381592643 182
+20 197.81623381592644
+20 236
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 182 C
+112.18376618407356 182
+128 166.18376618407356
+128 128
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 182 C
+128 182
+128 182
+182 182
+" stroke="rgb(25,179,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 182 C
+112.18376618407356 182
+128 197.81623381592644
+128 236
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 20 236 C
+20 274.1837661840736
+35.81623381592643 290
+74 290
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 20 236 C
+20 290
+20 290
+20 344
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 290 C
+35.81623381592643 290
+20 305.8162338159264
+20 344
+" stroke="rgb(25,179,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 290 C
+112.18376618407356 290
+128 274.1837661840736
+128 236
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 290 C
+128 290
+128 290
+182 290
+" stroke="rgb(25,179,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 290 C
+112.18376618407356 290
+128 305.8162338159264
+128 344
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 20 344 C
+20 382.1837661840736
+35.81623381592643 398
+74 398
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 20 344 C
+20 398
+20 398
+20 452
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 398 C
+35.81623381592643 398
+20 413.8162338159264
+20 452
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 398 C
+112.18376618407356 398
+128 382.1837661840736
+128 344
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 398 C
+128 398
+128 398
+182 398
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 398 C
+112.18376618407356 398
+128 413.8162338159264
+128 452
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 20 452 C
+20 490.1837661840736
+35.81623381592643 506
+74 506
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 506 C
+112.18376618407356 506
+128 490.1837661840736
+128 452
+" stroke="rgb(25,87,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 74 506 C
+128 506
+128 506
+182 506
+" stroke="rgb(25,87,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 128 20 C
+128 58.18376618407357
+143.81623381592644 74
+182 74
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 128 20 C
+128 74
+128 74
+128 128
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 74 C
+143.81623381592644 74
+128 89.81623381592644
+128 128
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 74 C
+220.18376618407356 74
+236 58.18376618407357
+236 20
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 74 C
+236 74
+236 74
+290 74
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 74 C
+220.18376618407356 74
+236 89.81623381592644
+236 128
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 128 128 C
+128 166.18376618407356
+143.81623381592644 182
+182 182
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 128 128 C
+128 182
+128 182
+128 236
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 182 C
+143.81623381592644 182
+128 197.81623381592644
+128 236
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 182 C
+220.18376618407356 182
+236 166.18376618407356
+236 128
+" stroke="rgb(25,179,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 182 C
+236 182
+236 182
+290 182
+" stroke="rgb(25,179,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 182 C
+220.18376618407356 182
+236 197.81623381592644
+236 236
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 128 236 C
+128 274.1837661840736
+143.81623381592644 290
+182 290
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 128 236 C
+128 290
+128 290
+128 344
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 290 C
+143.81623381592644 290
+128 305.8162338159264
+128 344
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 290 C
+220.18376618407356 290
+236 274.1837661840736
+236 236
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 290 C
+236 290
+236 290
+290 290
+" stroke="rgb(25,179,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 290 C
+220.18376618407356 290
+236 305.8162338159264
+236 344
+" stroke="rgb(25,179,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 128 344 C
+128 382.1837661840736
+143.81623381592644 398
+182 398
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 128 344 C
+128 398
+128 398
+128 452
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 398 C
+143.81623381592644 398
+128 413.8162338159264
+128 452
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 398 C
+220.18376618407356 398
+236 382.1837661840736
+236 344
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 398 C
+236 398
+236 398
+290 398
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 398 C
+220.18376618407356 398
+236 413.8162338159264
+236 452
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 128 452 C
+128 490.1837661840736
+143.81623381592644 506
+182 506
+" stroke="rgb(25,87,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 506 C
+220.18376618407356 506
+236 490.1837661840736
+236 452
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 182 506 C
+236 506
+236 506
+290 506
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 236 20 C
+236 58.18376618407357
+251.81623381592644 74
+290 74
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 236 20 C
+236 74
+236 74
+236 128
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 74 C
+251.81623381592644 74
+236 89.81623381592644
+236 128
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 74 C
+328.1837661840736 74
+344 58.18376618407357
+344 20
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 74 C
+344 74
+344 74
+398 74
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 74 C
+328.1837661840736 74
+344 89.81623381592644
+344 128
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 236 128 C
+236 166.18376618407356
+251.81623381592644 182
+290 182
+" stroke="rgb(25,179,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 236 128 C
+236 182
+236 182
+236 236
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 182 C
+251.81623381592644 182
+236 197.81623381592644
+236 236
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 182 C
+328.1837661840736 182
+344 166.18376618407356
+344 128
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 182 C
+344 182
+344 182
+398 182
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 182 C
+328.1837661840736 182
+344 197.81623381592644
+344 236
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 236 236 C
+236 274.1837661840736
+251.81623381592644 290
+290 290
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 236 236 C
+236 290
+236 290
+236 344
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 290 C
+251.81623381592644 290
+236 305.8162338159264
+236 344
+" stroke="rgb(25,179,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 290 C
+328.1837661840736 290
+344 274.1837661840736
+344 236
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 290 C
+344 290
+344 290
+398 290
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 290 C
+328.1837661840736 290
+344 305.8162338159264
+344 344
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 236 344 C
+236 382.1837661840736
+251.81623381592644 398
+290 398
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 236 344 C
+236 398
+236 398
+236 452
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 398 C
+251.81623381592644 398
+236 413.8162338159264
+236 452
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 398 C
+328.1837661840736 398
+344 382.1837661840736
+344 344
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 398 C
+344 398
+344 398
+398 398
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 398 C
+328.1837661840736 398
+344 413.8162338159264
+344 452
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 236 452 C
+236 490.1837661840736
+251.81623381592644 506
+290 506
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 506 C
+328.1837661840736 506
+344 490.1837661840736
+344 452
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 290 506 C
+344 506
+344 506
+398 506
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 344 20 C
+344 58.18376618407357
+359.8162338159264 74
+398 74
+" stroke="rgb(25,87,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 344 20 C
+344 74
+344 74
+344 128
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 74 C
+359.8162338159264 74
+344 89.81623381592644
+344 128
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 74 C
+436.1837661840736 74
+452 58.18376618407357
+452 20
+" stroke="rgb(25,74,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 74 C
+452 74
+452 74
+506 74
+" stroke="rgb(25,74,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 74 C
+436.1837661840736 74
+452 89.81623381592644
+452 128
+" stroke="rgb(25,87,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 344 128 C
+344 166.18376618407356
+359.8162338159264 182
+398 182
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 344 128 C
+344 182
+344 182
+344 236
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 182 C
+359.8162338159264 182
+344 197.81623381592644
+344 236
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 182 C
+436.1837661840736 182
+452 166.18376618407356
+452 128
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 182 C
+452 182
+452 182
+506 182
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 182 C
+436.1837661840736 182
+452 197.81623381592644
+452 236
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 344 236 C
+344 274.1837661840736
+359.8162338159264 290
+398 290
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 344 236 C
+344 290
+344 290
+344 344
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 290 C
+359.8162338159264 290
+344 305.8162338159264
+344 344
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 290 C
+436.1837661840736 290
+452 274.1837661840736
+452 236
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 290 C
+452 290
+452 290
+506 290
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 290 C
+436.1837661840736 290
+452 305.8162338159264
+452 344
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 344 344 C
+344 382.1837661840736
+359.8162338159264 398
+398 398
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 344 344 C
+344 398
+344 398
+344 452
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 398 C
+359.8162338159264 398
+344 413.8162338159264
+344 452
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 398 C
+436.1837661840736 398
+452 382.1837661840736
+452 344
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 398 C
+452 398
+452 398
+506 398
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 398 C
+436.1837661840736 398
+452 413.8162338159264
+452 452
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 344 452 C
+344 490.1837661840736
+359.8162338159264 506
+398 506
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 506 C
+436.1837661840736 506
+452 490.1837661840736
+452 452
+" stroke="rgb(25,179,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 398 506 C
+452 506
+452 506
+506 506
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 452 20 C
+452 58.18376618407357
+467.8162338159264 74
+506 74
+" stroke="rgb(25,61,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 452 20 C
+452 74
+452 74
+452 128
+" stroke="rgb(25,74,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 506 74 C
+467.8162338159264 74
+452 89.81623381592644
+452 128
+" stroke="rgb(25,74,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 452 128 C
+452 166.18376618407356
+467.8162338159264 182
+506 182
+" stroke="rgb(25,87,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 452 128 C
+452 182
+452 182
+452 236
+" stroke="rgb(25,87,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 506 182 C
+467.8162338159264 182
+452 197.81623381592644
+452 236
+" stroke="rgb(25,87,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 452 236 C
+452 274.1837661840736
+467.8162338159264 290
+506 290
+" stroke="rgb(25,87,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 452 236 C
+452 290
+452 290
+452 344
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 506 290 C
+467.8162338159264 290
+452 305.8162338159264
+452 344
+" stroke="rgb(25,106,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 452 344 C
+452 382.1837661840736
+467.8162338159264 398
+506 398
+" stroke="rgb(25,125,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 452 344 C
+452 398
+452 398
+452 452
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 506 398 C
+467.8162338159264 398
+452 413.8162338159264
+452 452
+" stroke="rgb(25,152,102)" stroke-width="5" fill-opacity="0.0"></path><path d="
+M 452 452 C
+452 490.1837661840736
+467.8162338159264 506
+506 506
+" stroke="rgb(25,217,102)" stroke-width="5" fill-opacity="0.0"></path><line x1="20" y1="23" x2="20" y2="17" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="77" y1="74" x2="71" y2="74" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="20" y1="131" x2="20" y2="125" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="77" y1="182" x2="71" y2="182" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="20" y1="239" x2="20" y2="233" stroke="rgb(255,0,255)" stroke-width="2"></line><line x1="77" y1="290" x2="71" y2="290" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="20" y1="347" x2="20" y2="341" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="77" y1="398" x2="71" y2="398" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="20" y1="455" x2="20" y2="449" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="77" y1="506" x2="71" y2="506" stroke="rgb(255,0,87)" stroke-width="2"></line><line x1="128" y1="23" x2="128" y2="17" stroke="rgb(255,0,87)" stroke-width="2"></line><line x1="185" y1="74" x2="179" y2="74" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="128" y1="131" x2="128" y2="125" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="185" y1="182" x2="179" y2="182" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="128" y1="239" x2="128" y2="233" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="185" y1="290" x2="179" y2="290" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="128" y1="347" x2="128" y2="341" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="185" y1="398" x2="179" y2="398" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="128" y1="455" x2="128" y2="449" stroke="rgb(255,0,87)" stroke-width="2"></line><line x1="185" y1="506" x2="179" y2="506" stroke="rgb(255,0,87)" stroke-width="2"></line><line x1="236" y1="23" x2="236" y2="17" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="293" y1="74" x2="287" y2="74" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="236" y1="131" x2="236" y2="125" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="293" y1="182" x2="287" y2="182" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="236" y1="239" x2="236" y2="233" stroke="rgb(255,0,255)" stroke-width="2"></line><line x1="293" y1="290" x2="287" y2="290" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="236" y1="347" x2="236" y2="341" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="293" y1="398" x2="287" y2="398" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="236" y1="455" x2="236" y2="449" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="293" y1="506" x2="287" y2="506" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="344" y1="23" x2="344" y2="17" stroke="rgb(255,0,87)" stroke-width="2"></line><line x1="401" y1="74" x2="395" y2="74" stroke="rgb(255,0,87)" stroke-width="2"></line><line x1="344" y1="131" x2="344" y2="125" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="401" y1="182" x2="395" y2="182" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="344" y1="239" x2="344" y2="233" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="401" y1="290" x2="395" y2="290" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="344" y1="347" x2="344" y2="341" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="401" y1="398" x2="395" y2="398" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="344" y1="455" x2="344" y2="449" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="401" y1="506" x2="395" y2="506" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="452" y1="23" x2="452" y2="17" stroke="rgb(184,0,61)" stroke-width="2"></line><line x1="509" y1="74" x2="503" y2="74" stroke="rgb(184,0,61)" stroke-width="2"></line><line x1="452" y1="131" x2="452" y2="125" stroke="rgb(255,0,87)" stroke-width="2"></line><line x1="509" y1="182" x2="503" y2="182" stroke="rgb(255,0,87)" stroke-width="2"></line><line x1="452" y1="239" x2="452" y2="233" stroke="rgb(255,0,87)" stroke-width="2"></line><line x1="509" y1="290" x2="503" y2="290" stroke="rgb(255,0,87)" stroke-width="2"></line><line x1="452" y1="347" x2="452" y2="341" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="509" y1="398" x2="503" y2="398" stroke="rgb(255,0,125)" stroke-width="2"></line><line x1="452" y1="455" x2="452" y2="449" stroke="rgb(255,0,179)" stroke-width="2"></line><line x1="509" y1="506" x2="503" y2="506" stroke="rgb(255,0,255)" stroke-width="2"></line></svg>
